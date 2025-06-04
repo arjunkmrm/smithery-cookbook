@@ -1,1 +1,7 @@
-IyBTbWl0aGVyeSBDb29rYm9vawpUaGlzIGlzIGp1c3QgYSB0ZXN0IGZpbGUgZm9yIHRoZSBzbWl0aGVyeS1jb29rYm9vayByZXBvc2l0b3J5Lg==
+Smithery Cookbook
+
+A collection of recipes for the Smithery framework.
+
+Gentle winds whisper,
+Code flows like a quiet stream,
+Crafting dreams in bytes.
